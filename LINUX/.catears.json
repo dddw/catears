@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "catears",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 20,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "cat"
+        ],
+        "backspace": false,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[^ \\n]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
